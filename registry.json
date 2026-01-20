@@ -523,6 +523,10 @@
           "path": "registry/shadcn/configs/root/theme.ts",
           "type": "registry:lib",
           "target": "~/puck/configs/root/theme.ts"
+        },
+        {
+          "path": "registry/shadcn/configs/root/font-links.tsx",
+          "type": "registry:lib"
         }
       ]
     },
@@ -858,18 +862,6 @@
       "files": [
         {
           "path": "registry/shadcn/components/field.tsx",
-          "type": "registry:component"
-        }
-      ]
-    },
-    {
-      "name": "shadcn-components-font-links",
-      "type": "registry:component",
-      "title": "Font Links",
-      "description": "A component that includes font link tags for the root font selector.",
-      "files": [
-        {
-          "path": "registry/shadcn/components/font-links.tsx",
           "type": "registry:component"
         }
       ]
