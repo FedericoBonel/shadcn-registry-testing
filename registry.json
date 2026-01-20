@@ -526,7 +526,8 @@
         },
         {
           "path": "registry/shadcn/configs/root/font-links.tsx",
-          "type": "registry:lib"
+          "type": "registry:lib",
+          "target": "~/puck/configs/root/font-links.tsx"
         }
       ]
     },
