@@ -58,7 +58,8 @@
       "registryDependencies": [
         "http://localhost:3000/r/shadcn-components-form.json",
         "http://localhost:3000/r/shadcn-components-field.json",
-        "http://localhost:3000/r/shadcn-ui-color-picker.json"
+        "http://localhost:3000/r/shadcn-ui-color-picker.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -76,7 +77,8 @@
       "dependencies": ["@puckeditor/core"],
       "registryDependencies": [
         "http://localhost:3000/r/shadcn-configs-fields.json",
-        "http://localhost:3000/r/shadcn-components-article-card.json"
+        "http://localhost:3000/r/shadcn-components-article-card.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -101,7 +103,8 @@
         "http://localhost:3000/r/shadcn-configs-fields.json",
         "http://localhost:3000/r/shadcn-components-article-card.json",
         "http://localhost:3000/r/shadcn-components-container.json",
-        "http://localhost:3000/r/shadcn-components-button.json"
+        "http://localhost:3000/r/shadcn-components-button.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -127,7 +130,8 @@
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
         "http://localhost:3000/r/shadcn-components-card.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -153,7 +157,8 @@
         "http://localhost:3000/r/shadcn-components-content.json",
         "http://localhost:3000/r/shadcn-components-card.json",
         "http://localhost:3000/r/shadcn-components-container.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -178,7 +183,8 @@
         "http://localhost:3000/r/shadcn-components-form.json",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -203,7 +209,8 @@
         "utils",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -230,7 +237,8 @@
         "http://localhost:3000/r/shadcn-ui-carousel.json",
         "http://localhost:3000/r/shadcn-ui-image.json",
         "http://localhost:3000/r/shadcn-components-container.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -256,7 +264,8 @@
         "http://localhost:3000/r/shadcn-ui-accordion.json",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -281,7 +290,8 @@
         "http://localhost:3000/r/shadcn-components-content.json",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-article-card.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -304,7 +314,8 @@
       "dependencies": ["@puckeditor/core"],
       "registryDependencies": [
         "http://localhost:3000/r/shadcn-components-container.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -330,7 +341,8 @@
         "http://localhost:3000/r/shadcn-ui-button.json",
         "http://localhost:3000/r/shadcn-ui-navigation-menu.json",
         "http://localhost:3000/r/shadcn-components-button.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -358,7 +370,8 @@
         "http://localhost:3000/r/shadcn-components-badge.json",
         "http://localhost:3000/r/shadcn-components-button.json",
         "http://localhost:3000/r/shadcn-ui-image.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -386,7 +399,8 @@
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
         "http://localhost:3000/r/shadcn-types.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -411,7 +425,8 @@
         "utils",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -439,7 +454,8 @@
         "http://localhost:3000/r/shadcn-ui-image.json",
         "http://localhost:3000/r/shadcn-hooks-use-prefers-reduced-motion.json",
         "http://localhost:3000/r/shadcn-components-container.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -466,7 +482,8 @@
         "http://localhost:3000/r/shadcn-ui-image.json",
         "http://localhost:3000/r/shadcn-components-container.json",
         "http://localhost:3000/r/shadcn-components-content.json",
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
@@ -488,7 +505,8 @@
       "description": "Component config for the shadcn twblocks page root.",
       "dependencies": ["react", "@puckeditor/core"],
       "registryDependencies": [
-        "http://localhost:3000/r/shadcn-configs-fields.json"
+        "http://localhost:3000/r/shadcn-configs-fields.json",
+        "http://localhost:3000/r/shadcn-styles.json"
       ],
       "files": [
         {
